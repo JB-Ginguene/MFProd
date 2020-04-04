@@ -1,0 +1,20 @@
+.jumbotron {
+    /* Choisis la hauteur ici */
+    height: 25rem;
+    /* Tu lui donnes une image de background */
+    background-image: url("jumbotronjinjer.jpeg");
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0 !important;
+    /* Général */
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#cont-art{
+    border: 0.01rem grey solid;
+    padding: 1rem 1rem 1rem 1rem;
+}
